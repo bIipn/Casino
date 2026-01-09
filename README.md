@@ -46,7 +46,4 @@ Program.cs demonstrates each example in sequence.
 ## Contact / Author
 Project author: bIipn
 
-If you'd like, I can:
-- Create a Git branch and push these files into your repository.
-- Add unit tests.
-- Make the random number generation injectable for testability.
+
